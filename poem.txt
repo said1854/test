@@ -8,3 +8,6 @@ Green
 Indigo
 
 Purple
+
+There are many colors above.
+
