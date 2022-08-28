@@ -6,3 +6,5 @@ Yellow
 Blue
 Green
 Indigo
+
+Purple
